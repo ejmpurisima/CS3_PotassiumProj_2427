@@ -82,13 +82,33 @@
     
     a[target= "_blank"]{
         background-color:#C1F0F2;
-        color: #1d3750;
+        color: #16293b;
     }
     a[href = "/internal-page"]{
         background-color:#C1F0F2;
-        color: #501d1d;
+        color: #852727;
     }
 
+    a:hover pseudo-class {
+        color: rgb(87, 141, 177);
+        text-decoration: underline;
+        font-weight:bold;
+    }
+
+    .container ul {
+list-style-type: none; /* removes bullets */
+clear: left; /* removes effect of float:left */
+padding: 0; /* removes the spaces surrounding the li/s */
+}
+
+.container ul li {
+width: 150px;
+padding: 5px;
+background-color: cornsilk;
+text-align: center;
+display: inline-block;
+border-radius: 0px 25px;
+}
     .container img:nth-child(1) {
         display: inline-block;
         max-width: 100%;
