@@ -55,9 +55,8 @@
     }
 
     .container img {
-        display: inline-block;
-        max-width: 100%;
-        height: auto;
+        display: block;
+        margin: 0 auto;
     }
 
     div container {
@@ -81,8 +80,6 @@
         border-radius: 0px 25px;
     }
     
-    anchor:hover {}
-    
     a[target= "_blank"]{
         background-color:#C1F0F2;
         color: #1d3750;
@@ -90,6 +87,18 @@
     a[href = "/internal-page"]{
         background-color:#C1F0F2;
         color: #501d1d;
+    }
+
+    .container img:nth-child(1) {
+        display: inline-block;
+        max-width: 100%;
+        height: auto;
+    }
+    .container img:nth-child(2){
+        margin: 0;
+        width: 30px;
+        height: 30px;
+        float: left;
     }
 
 
