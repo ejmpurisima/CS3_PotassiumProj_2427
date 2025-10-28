@@ -5,6 +5,8 @@
 
 ![Joker Card Logo](Joker_29.png)
 
+**Wiki, C. T. a. I. B. (n.d.). Joker. Alice in Borderland Wiki. https://aliceinborderland.fandom.com/wiki/Joker?file=Joker_%28Netflix_Card_Design%29.png**
+
 ## Description
 The website explores **Alice in Borderland**, a Japanese survival thriller Netflix adaptation series directed by Shinsuke Sato from a manga originally written and illustrated by Haro Aso. Alice in Borderland follows a group of people who are transported to a parallel, deserted Tokyo called the *Borderland* where they must play dangerous, life-or-death games to survive.
 
@@ -30,3 +32,27 @@ The website explores **Alice in Borderland**, a Japanese survival thriller Netfl
 **About Us:** This page will show information about the authors and their messages to the readers of the website.
 
 All *game webpages* are also going to include the season and episode number where the said game is featured.
+
+## Wireframes
+**Home Page:**
+
+![Home Page Wireframe](Homepage.png)
+
+**Page 1,2,3,4 (Symbol Specialists):**
+
+![Specialists Wireframe](Specialists.png)
+
+**Page 1.5,2.5,3.5,4.5 (Symbol Games):**
+
+![Games Wireframe](Games.png)
+
+**Page 1-5 Expanded (Menu):**
+
+![Expanded Wireframe](Expanded.png)
+
+**About Us:**
+
+![About Us Wireframe](AboutUs.png)
+
+
+
