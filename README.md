@@ -3,7 +3,7 @@
 
 **Logo:**
 
-![Joker Card Logo](Joker_29.png)
+![Joker Card Logo](assets/Joker_29.png)
 
 **Wiki, C. T. a. I. B. (n.d.). Joker. Alice in Borderland Wiki. https://aliceinborderland.fandom.com/wiki/Joker?file=Joker_%28Netflix_Card_Design%29.png**
 
@@ -36,23 +36,23 @@ All *game webpages* are also going to include the season and episode number wher
 ## Wireframes
 **Home Page:**
 
-![Home Page Wireframe](Homepage.png)
+![Home Page Wireframe](assets/Homepage.png)
 
-**Page 1,2,3,4 (Symbol Specialists):**
+**Page 1, 2, 3, 4 (Symbol Specialists):**
 
-![Specialists Wireframe](Specialists.png)
+![Specialists Wireframe](assets/Specialists.png)
 
-**Page 1.5,2.5,3.5,4.5 (Symbol Games):**
+**Page 1.5, 2.5, 3.5, 4.5 (Symbol Games):**
 
-![Games Wireframe](Games.png)
+![Games Wireframe](assets/Games.png)
 
 **Page 1-5 Expanded (Menu):**
 
-![Expanded Wireframe](Expanded.png)
+![Expanded Wireframe](assets/Expanded.png)
 
 **About Us:**
 
-![About Us Wireframe](AboutUs.png)
+![About Us Wireframe](assets/AboutUs.png)
 
 
 
