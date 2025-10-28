@@ -10,7 +10,11 @@ The website explores **Alice in Borderland**, a Japanese survival thriller Netfl
 
 ## Website Outline:
 **Home Page:** The home page will contain a short description about Alice in Borderland and a menu represented by card symbols that leads to the other webpages.
+
 **Page 1 (Hearts):** This page will discuss the games and characters who are specialists of the Hearts games.
+
 **Page 2 (Diamonds):** This page will discuss the games and characters who are specialists of the Diamonds games.
+
 **Page 3 (Clubs):** This page will discuss the games and characters who are specialists of the Clubs games.
+
 **Page 4 (Spades):** This page will discuss the games and characters who are specialists of the Spades games.
