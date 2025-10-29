@@ -1,5 +1,6 @@
 # Welcome to the Borderlands
-## A project proposal by Erin Janina Purisima and Janina Marie Tuddao
+## Beyond the Border: A Guide to Alice in Borderland
+### A project proposal by Erin Janina Purisima and Janina Marie Tuddao
 
 **Logo:**
 
