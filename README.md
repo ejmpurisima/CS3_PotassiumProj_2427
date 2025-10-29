@@ -33,6 +33,10 @@ The website explores **Alice in Borderland**, a Japanese survival thriller Netfl
 
 All *game webpages* are also going to include the season and episode number where the said game is featured.
 
+## Use of JavaScript
+Using arrays, we can create a table at the end of each game webpage that will summarize the name of the game, difficulty, and the season & episode it was included in. This will allow us to easily organize/summarize the game information without having to manually edit the html code. 
+
+
 ## Wireframes
 **Home Page:**
 
